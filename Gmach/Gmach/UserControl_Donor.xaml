@@ -1,0 +1,40 @@
+﻿<UserControl
+    x:Class="Gmach.UserControl_Donor"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Gmach"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+    <UserControl.Resources>
+        <local:StringFormatter x:Key="StringFormatterValueConverter"/>
+    </UserControl.Resources>
+    <Grid FlowDirection="RightToLeft" Background="#C0EEE4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" FlowDirection="LeftToRight">
+            <TextBlock Text="מספר תרומה:" FontSize="16" FontWeight="Medium" HorizontalAlignment="Left" Margin="9"/>
+            <TextBlock  Text="התורם:" FontSize="16" FontWeight="Medium" HorizontalAlignment="Left" Margin="9"/>
+            <TextBlock Text="סכום התרומה:" FontSize="16" FontWeight="Medium" HorizontalAlignment="Left" Margin="9"/>
+            <TextBlock Text="מספר הבנק:" FontSize="16" FontWeight="Medium" HorizontalAlignment="Left" Margin="9"/>
+            <TextBlock Text="שם הבנק:" FontSize="16" FontWeight="Medium" HorizontalAlignment="Left" Margin="9"/>
+            <TextBlock Text="נכנסה ב:" FontSize="16" FontWeight="Medium" HorizontalAlignment="Left" Margin="9"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" FlowDirection="RightToLeft">
+            <TextBlock Text="{Binding dCode}" FontSize="15"  Margin="10"/>
+            <TextBlock Text="{Binding Donor}" FontSize="15"  Margin="10"/>
+            <TextBlock Text="{Binding dSum}" FontSize="15"  Margin="10"/>
+            <TextBlock Text="{Binding BankNum}" FontSize="15"  Margin="10"/>
+            <TextBlock Text="{Binding BankName}" FontSize="15"  Margin="10"/>
+            <TextBlock Text="{Binding dDate, Converter={StaticResource StringFormatterValueConverter}, ConverterParameter= \{0:d\}}" FontSize="15"  Margin="10"/>
+
+        </StackPanel>
+
+    </Grid>
+</UserControl>

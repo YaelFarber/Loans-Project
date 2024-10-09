@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="Gmach.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Gmach"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid FlowDirection="RightToLeft">
+        <NavigationView Name="nvmenu" IsBackEnabled="True" BackRequested="nvmenu_BackRequested" >
+            <NavigationView.MenuItems >
+                <NavigationViewItem Name="home" Content="בית" FontSize="15" Icon="Home"  Tapped="home_Tapped"  />
+                <NavigationViewItem Name="search" Content="חיפוש" FontSize="15" Icon="Find" Tapped="search_Tapped"/>
+                <NavigationViewItem Name="signIn" Content="רישום לווה" FontSize="15" Icon="AddFriend" Tapped="signIn_Tapped"/>
+                <NavigationViewItem Name="askForLoan" Content="בקשת הלוואה" FontSize="15" Icon="Comment" Tapped="askForLoan_Tapped"/>
+                <NavigationViewItem Name="confirmLoans" Content="אישור הלוואות" FontSize="15" Icon="Accept" Tapped="confirmLoans_Tapped"/>
+                <NavigationViewItem Name="borrowers" Content="לווים" FontSize="15"   Icon="ContactInfo" Tapped="borrowers_Tapped"/>
+                <NavigationViewItem Name="donors" Content="תורמים" FontSize="15" Icon="SolidStar" Tapped="donors_Tapped"/>
+                <NavigationViewItem Name="neemanim" Content="נאמנים" FontSize="15" Icon="People" Tapped="neemanim_Tapped"/>
+                <NavigationViewItem Name="arvhived_Loan" Content="ארכיון הלוואות" FontSize="15" Icon="Library" Tapped="arvhived_Loan_Tapped"/>
+                <NavigationViewItem Name="table" Content="דוח חודשי" FontSize="15" Icon="Document" Tapped="table_Tapped"/>
+                
+                <NavigationViewItem Name="AboutUs" Content="אודות צדקת הראשון לציון" FontSize="15" Icon="Important" Tapped="AboutUs_Tapped"/>
+             
+            </NavigationView.MenuItems>
+            <ScrollViewer  Grid.Column= "1" Grid.RowSpan="5"  >
+                <Frame x:Name="frmMenu"  >
+
+                </Frame>
+            </ScrollViewer>
+        </NavigationView>
+    </Grid>
+</Page>

@@ -1,0 +1,36 @@
+﻿<UserControl
+    x:Class="Gmach.UserControl_Asks"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Gmach"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+    <UserControl.Resources>
+        <local:StringFormatter x:Key="StringFormatterValueConverter"/>
+    </UserControl.Resources>
+    <Grid FlowDirection="RightToLeft" Background="#F8F988">
+      
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" FlowDirection="LeftToRight">
+            <TextBlock Text="מבקש:" FontSize="16" FontWeight="Medium" HorizontalAlignment="Left" Margin="9"/>
+            <TextBlock Text="סכום:" FontSize="16" FontWeight="Medium" HorizontalAlignment="Left" Margin="9"/>
+
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="{Binding Borrower.FirstLastName}"   FontSize="15" HorizontalAlignment="Left" Margin="10" />
+            <TextBlock Text="{Binding LSum}"   FontSize="15" HorizontalAlignment="Left" Margin="10"  />
+
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <CheckBox Name="OK" Content="    אשר"  FontSize="16" FontWeight="Medium" BorderThickness="2" FlowDirection="LeftToRight"  Click="OK_Click" Margin="10"/>
+            </StackPanel>
+          
+        </StackPanel>
+    </Grid>
+</UserControl>

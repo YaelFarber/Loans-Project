@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="Gmach.All_Neeman"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Gmach"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="3*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <ListView Name="gr" Grid.Row="1" />
+        <Button Name="btnd" Click="btnd_Click" Grid.Row="0" HorizontalAlignment="Center" Content="הוספת נאמן" Margin="20"  FontSize="16" Background="#036eb5" Foreground="White"  />
+        <Frame Name="frm"/>
+    </Grid>
+
+  
+</Page>
