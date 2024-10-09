@@ -1,0 +1,81 @@
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\ViewModel\bin\Debug\Model.dll
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\ViewModel\bin\Debug\Model.pdb
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\ViewModel\obj\Debug\ViewModel.pdb
+Z:\פרויקט גמח  מעודכןכספים\MyServer\ViewModel\bin\Debug\ViewModel.dll
+Z:\פרויקט גמח  מעודכןכספים\MyServer\ViewModel\bin\Debug\ViewModel.pdb
+Z:\פרויקט גמח  מעודכןכספים\MyServer\ViewModel\bin\Debug\Model.dll
+Z:\פרויקט גמח  מעודכןכספים\MyServer\ViewModel\bin\Debug\Model.pdb
+Z:\פרויקט גמח  מעודכןכספים\MyServer\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+Z:\פרויקט גמח  מעודכןכספים\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמח  מעודכןכספים\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+Z:\פרויקט גמח  מעודכןכספים\MyServer\ViewModel\obj\Debug\ViewModel.dll
+Z:\פרויקט גמח  מעודכןכספים\MyServer\ViewModel\obj\Debug\ViewModel.pdb
+D:\פרויקט גמח כספים\MyServer\ViewModel\bin\Debug\ViewModel.dll
+D:\פרויקט גמח כספים\MyServer\ViewModel\bin\Debug\ViewModel.pdb
+D:\פרויקט גמח כספים\MyServer\ViewModel\bin\Debug\Model.dll
+D:\פרויקט גמח כספים\MyServer\ViewModel\bin\Debug\Model.pdb
+D:\פרויקט גמח כספים\MyServer\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+D:\פרויקט גמח כספים\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\פרויקט גמח כספים\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+D:\פרויקט גמח כספים\MyServer\ViewModel\obj\Debug\ViewModel.dll
+D:\פרויקט גמח כספים\MyServer\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\bin\Debug\Model.dll
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\bin\Debug\Model.pdb
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\bin\Debug\Model.dll
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\bin\Debug\Model.pdb
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\ViewModel\bin\Debug\Model.dll
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\ViewModel\bin\Debug\Model.pdb
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\ViewModel\bin\Debug\Model.dll
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\ViewModel\bin\Debug\Model.pdb
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\bin\Debug\Model.dll
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\bin\Debug\Model.pdb
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\bin\Debug\Model.dll
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\bin\Debug\Model.pdb
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\ViewModel\obj\Debug\ViewModel.pdb

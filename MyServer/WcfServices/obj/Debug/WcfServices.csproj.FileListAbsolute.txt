@@ -1,0 +1,110 @@
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\WcfServices\obj\Debug\WcfServices.csprojAssemblyReference.cache
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\WcfServices\bin\Debug\Model.dll
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\WcfServices\bin\Debug\ViewModel.dll
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\WcfServices\bin\Debug\Model.pdb
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\WcfServices\bin\Debug\ViewModel.pdb
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CopyComplete
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\WcfServices\obj\Debug\WcfServices.pdb
+Z:\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\bin\Debug\WcfServices.dll
+Z:\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\bin\Debug\WcfServices.pdb
+Z:\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\bin\Debug\Model.dll
+Z:\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\bin\Debug\ViewModel.dll
+Z:\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\bin\Debug\Model.pdb
+Z:\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\bin\Debug\ViewModel.pdb
+Z:\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\obj\Debug\WcfServices.csprojAssemblyReference.cache
+Z:\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CopyComplete
+Z:\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\obj\Debug\WcfServices.dll
+Z:\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\326770468\Desktop\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\326770468\Desktop\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\326770468\Desktop\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\bin\Debug\Model.dll
+C:\Users\326770468\Desktop\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\bin\Debug\ViewModel.dll
+C:\Users\326770468\Desktop\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\bin\Debug\Model.pdb
+C:\Users\326770468\Desktop\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\bin\Debug\ViewModel.pdb
+C:\Users\326770468\Desktop\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\obj\Debug\WcfServices.csprojAssemblyReference.cache
+C:\Users\326770468\Desktop\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\326770468\Desktop\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CopyComplete
+C:\Users\326770468\Desktop\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\326770468\Desktop\פרויקט גמח  מעודכןכספים\MyServer\WcfServices\obj\Debug\WcfServices.pdb
+D:\פרויקט גמח כספים\MyServer\WcfServices\bin\Debug\WcfServices.dll
+D:\פרויקט גמח כספים\MyServer\WcfServices\bin\Debug\WcfServices.pdb
+D:\פרויקט גמח כספים\MyServer\WcfServices\bin\Debug\Model.dll
+D:\פרויקט גמח כספים\MyServer\WcfServices\bin\Debug\ViewModel.dll
+D:\פרויקט גמח כספים\MyServer\WcfServices\bin\Debug\Model.pdb
+D:\פרויקט גמח כספים\MyServer\WcfServices\bin\Debug\ViewModel.pdb
+D:\פרויקט גמח כספים\MyServer\WcfServices\obj\Debug\WcfServices.csproj.AssemblyReference.cache
+D:\פרויקט גמח כספים\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CoreCompileInputs.cache
+D:\פרויקט גמח כספים\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CopyComplete
+D:\פרויקט גמח כספים\MyServer\WcfServices\obj\Debug\WcfServices.dll
+D:\פרויקט גמח כספים\MyServer\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\bin\Debug\Model.dll
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\bin\Debug\ViewModel.dll
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\bin\Debug\Model.pdb
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\bin\Debug\ViewModel.pdb
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\obj\Debug\WcfServices.csprojAssemblyReference.cache
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CopyComplete
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\bin\Debug\Model.dll
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\bin\Debug\ViewModel.dll
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\bin\Debug\Model.pdb
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\bin\Debug\ViewModel.pdb
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\obj\Debug\WcfServices.csprojAssemblyReference.cache
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CopyComplete
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\WcfServices\bin\Debug\Model.dll
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\WcfServices\bin\Debug\ViewModel.dll
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\WcfServices\bin\Debug\Model.pdb
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\WcfServices\bin\Debug\ViewModel.pdb
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\WcfServices\obj\Debug\WcfServices.csproj.AssemblyReference.cache
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CopyComplete
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\WcfServices\bin\Debug\Model.dll
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\WcfServices\bin\Debug\ViewModel.dll
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\WcfServices\bin\Debug\Model.pdb
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\WcfServices\bin\Debug\ViewModel.pdb
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\WcfServices\obj\Debug\WcfServices.csproj.AssemblyReference.cache
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CopyComplete
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\bin\Debug\Model.dll
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\bin\Debug\ViewModel.dll
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\bin\Debug\Model.pdb
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\bin\Debug\ViewModel.pdb
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\obj\Debug\WcfServices.csproj.AssemblyReference.cache
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CopyComplete
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\bin\Debug\Model.dll
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\bin\Debug\ViewModel.dll
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\bin\Debug\Model.pdb
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\bin\Debug\ViewModel.pdb
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\obj\Debug\WcfServices.csproj.AssemblyReference.cache
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\obj\Debug\WcfServices.csproj.CopyComplete
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\WcfServices\obj\Debug\WcfServices.pdb

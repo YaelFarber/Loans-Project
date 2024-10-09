@@ -1,0 +1,53 @@
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\Model\bin\Debug\Model.dll
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\Model\bin\Debug\Model.pdb
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\Model\obj\Debug\Model.dll
+C:\Users\326770468\Desktop\פרויקט גמח כספים\MyServer\Model\obj\Debug\Model.pdb
+Z:\פרויקט גמח  מעודכןכספים\MyServer\Model\bin\Debug\Model.dll
+Z:\פרויקט גמח  מעודכןכספים\MyServer\Model\bin\Debug\Model.pdb
+Z:\פרויקט גמח  מעודכןכספים\MyServer\Model\obj\Debug\Model.csprojAssemblyReference.cache
+Z:\פרויקט גמח  מעודכןכספים\MyServer\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+Z:\פרויקט גמח  מעודכןכספים\MyServer\Model\obj\Debug\Model.dll
+Z:\פרויקט גמח  מעודכןכספים\MyServer\Model\obj\Debug\Model.pdb
+D:\פרויקט גמח כספים\MyServer\Model\bin\Debug\Model.dll
+D:\פרויקט גמח כספים\MyServer\Model\bin\Debug\Model.pdb
+D:\פרויקט גמח כספים\MyServer\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\פרויקט גמח כספים\MyServer\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\פרויקט גמח כספים\MyServer\Model\obj\Debug\Model.dll
+D:\פרויקט גמח כספים\MyServer\Model\obj\Debug\Model.pdb
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\Model\bin\Debug\Model.dll
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\Model\bin\Debug\Model.pdb
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\Model\obj\Debug\Model.dll
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\Model\obj\Debug\Model.pdb
+C:\Users\326770468\Desktop\פרויקט הלואות -יעל פרבר\MyServer\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\Model\bin\Debug\Model.dll
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\Model\bin\Debug\Model.pdb
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\Model\obj\Debug\Model.dll
+C:\Users\אריה\Desktop\פרויקט הלואות -יעל פרבר\MyServer\Model\obj\Debug\Model.pdb
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\Model\bin\Debug\Model.dll
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\Model\bin\Debug\Model.pdb
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\Model\obj\Debug\Model.dll
+C:\Users\לשכה\Desktop\עבודה\UWP\MyServer\Model\obj\Debug\Model.pdb
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\Model\bin\Debug\Model.dll
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\Model\bin\Debug\Model.pdb
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\Model\obj\Debug\Model.dll
+C:\Users\אריה\Desktop\עבודה\UWP\MyServer\Model\obj\Debug\Model.pdb
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\Model\bin\Debug\Model.dll
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\Model\bin\Debug\Model.pdb
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\Model\obj\Debug\Model.dll
+C:\Users\לשכה\Desktop\גמח צדקת הראשון לציון\MyServer\Model\obj\Debug\Model.pdb
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\Model\bin\Debug\Model.dll
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\Model\bin\Debug\Model.pdb
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\Model\obj\Debug\Model.dll
+C:\Users\אריה\Desktop\גמח צדקת הראשון לציון\MyServer\Model\obj\Debug\Model.pdb
